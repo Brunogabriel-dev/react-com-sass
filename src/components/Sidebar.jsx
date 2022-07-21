@@ -1,3 +1,7 @@
+import Avatar from "../img/eu.jpg";
+
+import "../styles/components/sidebar.sass";
+
 const Sidebar = () => {
   return (
   <aside id="sidebar">
